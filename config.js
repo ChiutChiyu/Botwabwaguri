@@ -11,9 +11,9 @@ const { version } = require("./package.json")
 global.setprefix = "."
 
 // Bebas Ubah
-global.owner = "6281563808289"
-global.nobot = "6281563808289"
-global.namaowner = "Mane"
+global.owner = "62858204856933"
+global.nobot = "62858204856933"
+global.namaowner = "ChiutChiyu"
 global.namaBot = "Waguri🍃"
 global.title = "Waguri🍃"
 
@@ -40,22 +40,22 @@ global.autobio = false
 global.thumbnail = "https://files.catbox.moe/dk1rcu.jpg"
 
 // Set Payment
-global.qris = "https://files.catbox.moe/lo22eo.jpg"
-global.dana = "08xxx"
-global.gopay = "08xxx"
+global.qris = "-"
+global.dana = "0858204856933"
+global.gopay = "0858204856933"
 
 // ===={ Set Link }
-global.ch = 'https://whatsapp.com/channel/0029VbB7WPzAYlUQFsoSwS0d'
-global.idch = '120363400297473298@newsletter'
-global.linkgc = 'https://chat.whatsapp.com/HqEsfykjNCRA7GecpenP9V'
-global.yt = 'https://youtube.com/@amaneofc'
+global.ch = 'https://whatsapp.com/channel/0029Vb1ojJ6G8l5BSpFm8M2F'
+global.idch = 'https://whatsapp.com/channel/0029Vb1ojJ6G8l5BSpFm8M2F'
+global.linkgc = 'https://whatsapp.com/channel/0029Vb1ojJ6G8l5BSpFm8M2F'
+global.yt = 'https://youtube.com/@ChiutChiyuID'
 global.nekorin = "https://api.nekorinn.my.id"
-global.idgc = "120363421785682791@g.us"
+global.idgc = "https://whatsapp.com/channel/0029Vb1ojJ6G8l5BSpFm8M2F"
 
 // User Sosmed
-global.tt = "@whousdisz"
-global.yt = "@amaneofc"
-global.ig = "@amaneofc"
+global.tt = "@ChiutChiyuID"
+global.yt = "@ChiutChiyuID"
+global.ig = "@ChiutChiyuID"
 
 // Setting Api cVPS
 global.doToken = "APIKEY"
